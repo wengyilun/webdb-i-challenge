@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa63699d-bf9d-44a5-87a9-4d8bc5513a21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/queries.md" beforeDir="false" afterPath="$PROJECT_DIR$/queries.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/queries.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="476">
-                <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+              <first_editor relative-caret-position="600">
+                <caret line="76" selection-start-line="76" selection-end-line="76" />
               </first_editor>
               <second_editor />
             </state>
@@ -47,8 +46,8 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
-    <option name="y" value="23" />
+    <option name="x" value="59" />
+    <option name="y" value="28" />
     <option name="width" value="1276" />
     <option name="height" value="1356" />
   </component>
@@ -103,15 +102,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556556557122</updated>
-      <workItem from="1556556558702" duration="4746000" />
+      <workItem from="1556556558702" duration="5183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4746000" />
+    <option name="totallyTimeSpent" value="5183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="23" width="1276" height="1356" extended-state="0" />
+    <frame x="59" y="28" width="1276" height="1356" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -120,7 +119,7 @@
       <window_info anchor="bottom" id="Quokka" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.42351973" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32154605" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -142,8 +141,8 @@
     <entry file="file://$PROJECT_DIR$/queries.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="476">
-            <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <first_editor relative-caret-position="600">
+            <caret line="76" selection-start-line="76" selection-end-line="76" />
           </first_editor>
           <second_editor />
         </state>
